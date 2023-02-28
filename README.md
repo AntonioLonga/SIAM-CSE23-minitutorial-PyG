@@ -9,11 +9,11 @@ Neural Networks and Deep Learning have started only recently to become standard 
 **Organization and material**
 The tutorial is divided in two parts:
 
-**Part I:** Thursday, March 2, 2:35 PM - 4:15 PM, Room G103
-Presenter: Gabriele Santin
-Goals: Motivations, Intro of basic concepts, definition of GNNs
+**Part I:** Thursday, March 2, 2:35 PM - 4:15 PM, Room G103  
+Presenter: Gabriele Santin  
+Goals: Motivations, Intro of basic concepts, definition of GNNs  
 Material:  Slides and  Notebooks.
-**Part II:** Thursday, March 2, 4:45 PM - 6:25 PM, Room G103
-Presenter:  Antonio Longa
-Goals: Practical session, self-contained code for GNN training
+**Part II:** Thursday, March 2, 4:45 PM - 6:25 PM, Room G103  
+Presenter:  Antonio Longa  
+Goals: Practical session, self-contained code for GNN training  
 Material:  Slides and  Notebooks.
