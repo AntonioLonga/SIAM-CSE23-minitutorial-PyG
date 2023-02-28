@@ -12,7 +12,8 @@ The tutorial is divided in two parts:
 **Part I:** Thursday, March 2, 2:35 PM - 4:15 PM, Room G103  
 Presenter: Gabriele Santin  
 Goals: Motivations, Intro of basic concepts, definition of GNNs  
-[Material](https://gabrielesantin.github.io/tutorial-SIAM-CSE/)
+[Material](https://gabrielesantin.github.io/tutorial-SIAM-CSE/)  
+
 **Part II:** Thursday, March 2, 4:45 PM - 6:25 PM, Room G103  
 Presenter:  Antonio Longa  
 Goals: Practical session, self-contained code for GNN training  
